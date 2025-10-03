@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Long Vũ</h1>
 <h3 align="center">A passionate Sofware Engineer from VietNam</h3>
-<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/745b95d9-f638-492e-a535-7c2159616cb5" />
+<img align = "right" width="400" height="428" alt="image" src="https://github.com/user-attachments/assets/745b95d9-f638-492e-a535-7c2159616cb5" />
 
 
 
