@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long Vũ</h1>
 <h3 align="center">A passionate Sofware Engineer from VietNam</h3>
-<img align="right" width="400" alt ="coding" src="https://github-production-user-asset-6210df.s3.amazonaws.com/117972755/497231100-ee3d4d2b-9465-40bd-bf50-66a31ea6cc84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251003%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251003T164225Z&X-Amz-Expires=300&X-Amz-Signature=29e4190f0498b618193a52833055d55994bd2456be26670063f4c78d5d02ef3f&X-Amz-SignedHeaders=host">
+<img align="right" width="400"  alt="coding" src="https://github.com/user-attachments/assets/02d7f74e-a68d-4dd8-8eb6-b18045f1cfb2" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenphanlongvu&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenphanlongvu" /> </p>
 
