@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Long Vũ</h1>
 <h3 align="center">A passionate Sofware Engineer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenphanlongvu&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenphanlongvu" /> </p>
-<img align="right" alt="coding" width="400" src="<img width="680" src="https://github.com/user-attachments/assets/ee3d4d2b-9465-40bd-bf50-66a31ea6cc84" />
-
-">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenphanlongvu&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenphanlongvu" /> </
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
