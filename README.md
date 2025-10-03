@@ -3,7 +3,8 @@
 <img aligh ="right" alt="coding" width="400" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/58a87f48-df7a-49f6-8179-fd884399a5a6" />
 " />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenphanlongvu&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenphanlongvu" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
