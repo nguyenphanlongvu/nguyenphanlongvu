@@ -1,18 +1,73 @@
-<h1 align="center">Hi 👋, I'm Long Vũ</h1>
-<h3 align="center">A passionate Sofware Engineer from VietNam</h3>
+<div align="center">
+  <h1>Welcome to Dat's GitHub Page</h1>
+  <h2><i>A Passionate Programmer from Vietnam</i></h2>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='90' alt='GitHub Mascot'>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenphanlongvu&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenphanlongvu" /> </p>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/nguyen.phan.long.vu.2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nguyen.phan.long.vu.2024" height="30" width="40" /></a>
+<img src="./images/developer-mini.gif" alt="Developer Icon" width="30"/> Greetings! My name is Dat, but you can call me Dee. I'm passionate about discussing finance and technology.
+
+<br>
+
+<h2 align="center">🛠️ Favourite Technologies 🛠️</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/b072e090-7f14-44c8-bd2a-184d23441809" alt="spring" width="48" height="48"/> </a>
+      <br>SpringBoot
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a>
+      <br>MySQL
+    </td>
+        <td align="center" width="96">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/c81965bc-8599-452d-b368-f025f5ff3e23" alt="php" width="55" height="48"/> </a>
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/1b2a9a76-f63a-4f03-90e2-92f4daae1818" alt="drupal" width="48" height="48"/> </a>
+      <br>Drupal
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/8a84c721-b819-47a6-9834-797b4cb61b68" alt="git" width="48" height="48"/> </a>
+      <br>Git
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/letiendat1002/letiendat1002/assets/66414511/910bc9ea-47e2-44e1-893b-76e57f308be8" alt="Linux" width="48" height="48"/> </a>
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">🤝 Connect with me 🤝</h2>
+
+<p align="center">
+  <a href="mailto:letiendat1002@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Mail-letiendat1002-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/letiendat1002" target="blank">
+    <img src="https://img.shields.io/badge/Linkedin-letiendat1002-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenphanlongvu&show_icons=true&locale=en&layout=compact" alt="nguyenphanlongvu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenphanlongvu&show_icons=true&locale=en" alt="nguyenphanlongvu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphanlongvu&" alt="nguyenphanlongvu" /></p>
+<div align="center">
+  <img width="40%" src="./images/Flag_of_Vietnam-Animated.gif" alt="Vietnam Flag"/>
+</div>
